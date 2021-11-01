@@ -7,4 +7,4 @@ No hotkeys so you need to restart if you wanna go back to normal play<br/>
 JumpcheckPatch.py - Removes isGround check allowing you to air jump<br/>
 SlapPatch.py - Removes cooldown from slapping<br/>
 AntiKBPatch.py - Prevents getting knockback when slapped<br/>
-ACPatch.py - Patches the anti-cheats OnHackerDetected function. Allows use of speedhacks like the one in cheatengine<br/>
+ACPatch.py - Patches the anti-cheats OnCheatingDetected function. Allows use of speedhacks like the one in cheatengine<br/>

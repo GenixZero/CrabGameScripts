@@ -6,7 +6,7 @@ client = pymem.process.module_from_name(pm.process_handle, 'GameAssembly.dll')
 
 print('Crab Game Cheats\nTo disable you have to restart your game.\n')
 print('[1] CE Speed Hack Bypass')
-print('[2] FastSlap')
+print('[2] Fast Slap')
 print('[3] Air Jump')
 print('[4] Anti KB')
 
